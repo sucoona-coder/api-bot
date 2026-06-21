@@ -1,0 +1,11 @@
+# Bot Discord
+discord.py>=2.3.0
+supabase>=2.0.0
+aiohttp>=3.8.0
+python-dotenv>=1.0.0
+
+# API Flask
+Flask>=3.0.0
+Pillow>=10.0.0
+requests>=2.31.0
+gunicorn>=21.0.0  # Pour le déploiement sur Railway
